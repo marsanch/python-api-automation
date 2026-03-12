@@ -1,0 +1,10 @@
+# Configuración de la API
+API_BASE_URL=https://jsonplaceholder.typicode.com
+API_TIMEOUT=10
+
+# Salida
+OUTPUT_DIR=./output
+
+# Logging
+LOG_LEVEL=INFO
+
